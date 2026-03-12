@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages by NK Bhat
+## Welcome to GitHub Pages by NK Bhat M
 
 You can use the [editor on GitHub](https://github.com/Nikhil-bhat37/HTML-Basics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
